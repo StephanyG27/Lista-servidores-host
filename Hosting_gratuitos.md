@@ -1,7 +1,7 @@
 # Lista-servidores-host
 
-
-
-## Nombre del proveedor: InfinityFree (https://www.infinityfree.com/)
-
-## Nombre del proveedor: HubSpot (https://www.hubspot.es/)
+## LucusHost (https://www.lucushost.com/)
+## AwardSpace (https://www.awardspace.com/)
+## InfinityFree (https://www.infinityfree.com/)
+## Free Hosting (https://www.freehosting.com/)
+## HubSpot (https://www.hubspot.es/)
