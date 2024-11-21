@@ -1,6 +1,6 @@
 # Lista-servidores-host
 
-## Wix ([https://www.lucushost.com/](https://es.wix.com/)
+## Wix (https://es.wix.com/)
 ## AwardSpace (https://www.awardspace.com/)
 ## InfinityFree (https://www.infinityfree.com/)
 ## Free Hosting (https://www.freehosting.com/)
