@@ -23,5 +23,6 @@
 #Wix
 
 Wix es un sitio ideal si lo que buscas es hacer una pagina web sencilla, ya que cuenta con inteligencia artificial que te facilita el trabajo.
-Primero, al entrar, verás la pagina de inicio. 
-![] ()
+Primero, al entrar, verás la pagina de inicio. Una vez dentro, tendrás que crear una cuenta. Luego, te ofrecerán el usar la IA para crear tu web o hacerlo manualmente.
+
+
